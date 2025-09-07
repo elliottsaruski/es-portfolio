@@ -1,6 +1,6 @@
 import { Link, useLocation } from "react-router-dom";
 
-export const navItems = [
+const navItems = [
   { path: "/", label: "Home" },
   { path: "/projects", label: "Projects" },
   { path: "/playground", label: "Playground" },

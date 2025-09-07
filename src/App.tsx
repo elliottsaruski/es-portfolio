@@ -10,10 +10,6 @@ function App() {
       <main className="flex-grow">
         <Routes>
           <Route path="/" element={<Home />} />
-          {/* <Route path="/projects" element={<Projects />} /> */}
-          {/* <Route path="/playground" element={<Playground />} /> */}
-          {/* <Route path="/components" element={<Components />} /> */}
-          {/* <Route path="/music" element={<Music />} /> */}
         </Routes>
       </main>
       <Footer />
